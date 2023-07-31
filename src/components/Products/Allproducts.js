@@ -34,7 +34,7 @@ export default function Allproducts({ data }) {
         <div className='select' style={{ textAlign: 'center' }}>
           {/*  dropdown */}
           <select value={sortingOption} onChange={handleSortOptionChange}>
-            <option value="">Sırala ⮃</option>
+            <option value="">Sırala</option>
             <option value="price-ascending">Artan Fiyat</option>
             <option value="price-descending">Azalan Fiyat</option>
             <option value="ratings-ascending">Artan Puan</option>
