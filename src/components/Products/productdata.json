@@ -1,0 +1,181 @@
+
+    [{
+        "key": 1,
+        "title": "Fjallraven -Fits 15 Laptop Çantası",
+        "price": 89.95,
+        "description": "Günlük kullanım ve ormanda yürüyüşler için mükemmel çantanız. Dizüstü bilgisayarınızı (en fazla 15 inç) dolgulu kılıfta saklayın, her gün",
+        "category": "Erkek Giyim",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+        "key": 2,
+        "title": "Gündelik Erkek Slim Fit Tişört ",
+        "price": 22.3,
+        "description": "Dar kesim stil, kontrast raglan uzun kollu, üç düğmeli henley pat, nefes alabilen ve rahat kullanım için hafif ve yumuşak kumaş. Ve dayanıklılık için yapılmış yuvarlak yakalı ve gündelik moda giyim ve inatçı beyzbol hayranları için mükemmel bir uyum sağlayan sağlam dikişli gömlekler. Henley stili yuvarlak yaka, üç düğmeli bir pat içerir.",
+        "category": "Erkek Giyim",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": { "rate": 4.1, "count": 259 }
+    },
+    {
+        "key": 3,
+        "title": "Erkek Pamuklu Ceket",
+        "price": 55.99,
+        "description": "İlkbahar/Sonbahar/Kış için harika dış giyim ceketleri; çalışma, yürüyüş, kamp, ​​dağ/kaya tırmanışı, bisiklete binme, seyahat veya diğer dış mekanlar gibi birçok durum için uygundur. Siz veya aile üyeniz için iyi bir hediye seçimi. Bu şükran gününde veya Noel Günü'nde Baba, koca veya oğula sıcak yürekli bir sevgi verin.",
+        "category": "Erkek Giyim",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": { "rate": 4.7, "count": 500 }
+    },
+    {
+        "key": 4,
+        "title": "Erkek Gündelik Slim Fit",
+        "price": 15.99,
+        "description": "Renk, ekranda ve pratikte biraz farklı olabilir.",
+        "category": "Erkek Giyim",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": { "rate": 2.1, "count": 430 }
+    },
+    {
+        "key": 5,
+        "title": "Altın ve Gümüş Ejderha İstasyonu Zincir Bileklik",
+        "price": 695,
+        "description": "Legends Koleksiyonumuzdan Naga, okyanusun incisini koruyan efsanevi su ejderhasından ilham almıştır. Sevgi ve bolluk bahşedilmesi için içe dönük veya koruma için dışa dönük giyin.",
+        "category": "Mücevher",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": { "rate": 4.6, "count": 400 }
+    },
+    {
+        "key": 6,
+        "title": " Altın Petite Micropave ",
+        "price": 168,
+        "description": "Memnuniyet garantili. Herhangi bir siparişi 30 gün içinde iade edin veya değiştirin. Amerika Birleşik Devletleri'nde Hafeez Center tarafından tasarlanmış ve satılmıştır. Memnuniyet garantili. Herhangi bir siparişi 30 gün içinde iade edin veya değiştirin.",
+        "category": "Mücevher",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": { "rate": 3.9, "count": 70 }
+    },
+    {
+        "key": 7,
+        "title": "Beyaz Altın Kaplama Yüzük",
+        "price": 9.99,
+        "description": "Onun için Klasik Oluşturulan Düğün Nişan Tektaş Pırlanta Söz Yüzüğü. Nişan, Düğün, Yıldönümü, Sevgililer Günü için aşkınızı daha çok şımartacak hediyeler...",
+        "category": "Mücevher",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": { "rate": 3, "count": 400 }
+    },
+    {
+        "key": 8,
+        "title": "İğneli Baykuş Pembe Altın Kaplama Paslanmaz Çelik",
+        "price": 10.99,
+        "description": "Pembe Altın Kaplama Çift Genişletilmiş Tünel Fiş Küpe. 316L Paslanmaz Çelikten Üretilmiştir",
+        "category": "Mücevher",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": { "rate": 1.9, "count": 100 }
+    },
+    {
+        "key": 9,
+        "title": "WD 2TB Elements Taşınabilir Harici Sabit Sürücü - USB 3.0",
+        "price": 64,
+        "description": "USB 3.0 ve USB 2.0 Uyumluluğu Hızlı veri aktarımları Bilgisayar Performansını Artırır Yüksek Kapasite; Uyumluluk Windows 10, Windows 8.1, Windows 7 için Biçimlendirilmiş NTFS; Diğer işletim sistemleri için yeniden biçimlendirme gerekebilir; Uyumluluk, kullanıcıların donanım yapılandırmasına ve işletim sistemine bağlı olarak değişiklik gösterebilir.",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": { "rate": 3.3, "count": 203 }
+    },
+    {
+        "key": 10,
+        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "price": 109,
+        "description": "Daha hızlı başlatma, kapatma, uygulama yükleme ve yanıt için kolay yükseltme (5400 RPM SATA 2,5” sabit sürücüyle karşılaştırıldığında; yayınlanan spesifikasyonlara ve PCMark avantaj puanları kullanılarak yapılan dahili kıyaslama testlerine dayalıdır) Seri yazma performansını artırarak tipik PC iş yükleri için idealdir Performans ve güvenilirliğin mükemmel dengesi 535MB/sn/450MB/sn'ye varan Okuma/yazma hızları (Dahili testlere dayalıdır; Performans, sürücü kapasitesine, ana cihaza, işletim sistemine ve uygulamaya bağlı olarak değişiklik gösterebilir.)",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "rating": { "rate": 2.9, "count": 470 }
+    },
+    {
+        "key": 11,
+        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC ",
+        "price": 109,
+        "description": "3D NAND flash, yüksek aktarım hızları sağlamak için uygulanır. Daha hızlı başlatma ve iyileştirilmiş genel sistem performansı sağlayan olağanüstü aktarım hızları. Gelişmiş SLC Önbellek Teknolojisi, performans artışı ve daha uzun kullanım ömrü sağlar 7 mm ince tasarım, Ultrabook'lar ve Ultra ince dizüstü bilgisayarlar için uygundur. Optimize edilmiş performans ve gelişmiş güvenilirlik sağlamak için TRIM komutunu, Çöp Toplama teknolojisini, RAId'yi ve ECC'yi (Hata Denetimi ve Düzeltme) destekler.",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "rating": { "rate": 4.8, "count": 319 }
+    },
+    {
+        "key": 12,
+        "title": "WD 4TB Oyun Portatif External HardDisk",
+        "price": 114,
+        "description": "PS4 oyun deneyiminizi genişletin, Her yerde oynayın Hızlı ve kolay kurulum Yüksek kapasiteli şık tasarım, 3 yıllık sınırlı üretici garantisi",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "rating": { "rate": 4.8, "count": 400 }
+    },
+    {
+        "key": 13,
+        "title": "Acer SB220Q bi 21.5 inches Full HD",
+        "price": 599,
+        "description": "21. 5 inç Full HD (1920 x 1080) geniş ekran IPS ekran Ve Radeon free Sync teknolojisi. VESA Yuvası için uyumluluk yok Yenileme hızı: 75 Hz - HDMI bağlantı noktasını kullanma Sıfır çerçeveli tasarım | ultra ince | 4ms tepki süresi | IPS paneli En boy oranı - 16: 9. Desteklenen Renk - 16,7 milyon renk. Parlaklık - 250 nit Eğim açısı -5 dereceden 15 dereceye kadar. Yatay görüş açısı-178 derece. Dikey görüş açısı-178 derece 75 hertz",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "rating": { "rate": 2.9, "count": 250 }
+    },
+    {
+        "key": 14,
+        "title": "Samsung 49 İnç CHG90 144Hz Oyun Monitörü",
+        "price": 799,
+        "description": "Yan yana çift 27 inç ekrana sahip 49 İNÇ SUPECurvedR ULTRAWIDE 32:9 KAVİSLİ OYUN MONİTÖRÜ KUANTUM DOT (QLED) TEKNOLOJİSİ, HDR desteği ve fabrika kalibrasyonu, şaşırtıcı derecede gerçekçi ve doğru renk ve kontrast sağlar 144HZ YÜKSEK YENİLEME hızı ve 1ms ultra hızlı tepki süresi hareket bulanıklığını, gölgelenmeyi ortadan kaldırın ve giriş gecikmesini azaltın",
+        "category": "Elektronik",
+        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "rating": { "rate": 2.2, "count": 140 }
+    },
+    {
+        "key": 15,
+        "title": "BIYLACLESEN Kadın 3'ü 1 Arada Snowboard Ceket Kışlık Mont",
+        "price": 56.99,
+        "description": "Not: Ceketler ABD standart ölçüsüdür, Lütfen normal giydiğiniz bedeni seçin Malzeme: %100 Polyester; Çıkarılabilir Astar Kumaşı: Sıcak tutan Polar. Çıkarılabilir Fonksiyonel Astar: Cilt Dostu, Hafif ve Sıcak Tutar. Dik Yaka Astar ceket, soğuk havalarda sizi sıcak tutar. Fermuarlı Cepler: 2 Fermuarlı El Cebi, Göğüste 2 Fermuarlı Cep (kartlar veya anahtarlar için yeterli) ve 1 Gizli Cep İç. Fermuarlı El Cepleri ve Gizli Cep, eşyalarınızı güvende tutar. İnsanlaşmış Tasarım: Rahat bir uyum için rüzgarı ve suyu önlemek için Ayarlanabilir ve Çıkarılabilir Başlık ve Ayarlanabilir manşet. 3'ü 1 Arada Ayrılabilir Tasarım daha fazla rahatlık sağlar, ceketi ve içini gerektiği gibi ayırabilir veya birlikte giyebilirsiniz. Farklı mevsimler için uygundur ve farklı iklimlere uyum sağlamanıza yardımcı olur.",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "rating": { "rate": 2.6, "count": 235 }
+    },
+    {
+        "key": 16,
+        "title": "Lock and Love Kadın Çıkarılabilir Kapşonlu Suni Deri Moto Biker Ceket",
+        "price": 29.95,
+        "description": "%100 POLİÜRETAN(kabuk) %100 POLYESTER(astar) %75 POLYESTER %25 PAMUK (KAZAK), Stil ve rahatlık için suni deri malzeme / Önde 2 cep, 2-For-One Kapşonlu denim tarzı suni deri ceket, Düğme detaylı bel / Yanlarda detaylı dikiş, YALNIZCA ELDE YIKAYIN / BEYAZ YAPMAYIN / ÇİZGİDE KURUTMA / ÜTÜLEMEYİN",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": { "rate": 2.9, "count": 340 }
+    },
+    {
+        "key": 17,
+        "title": "Yağmur Ceket Kadın Rüzgarlık Çizgili Tırmanma Yağmurlukları",
+        "price": 39.99,
+        "description": "Gezi veya gündelik giyim için hafif mükemmel --- Kapşonlu, ayarlanabilir büzme ipli bel tasarımına sahip uzun kollu. Düğmeli ve fermuarlı önü kapama yağmurluk, tamamen çizgili Astarlı ve Yağmurluk 2 yan ceplidir, her türlü şeyi tutmak için iyi bir boyuttadır, kalçaları kapatır ve kapüşonu cömerttir ancak aşırıya kaçmaz. Ayarlanabilir Büzme ipleri ona gerçekten tarz bir görünüm verir.",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": { "rate": 3.8, "count": 679 }
+    },
+    {
+        "key": 18,
+        "title": "MBJ Kadın Katı Kısa Kollu Kayık Yaka V",
+        "price": 9.85,
+        "description": "%95 RAYON %5 SPANDEX, ABD'de Üretilmiştir veya İthaldir, Ağartıcı Yapmayın, Rahatlık için büyük ölçüde esnekliğe sahip hafif kumaş, Kollarda ve yakada nervürlü / Alt kenarda çift dikiş",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "rating": { "rate": 4.7, "count": 130 }
+    },
+    {
+        "key": 19,
+        "title": "Opna Kadın Kısa Kollu",
+        "price": 7.95,
+        "description": "%100 Polyester, Makinede yıkanır, %100 katyonik polyester interlok, Harika Uyum için Makinede Yıkanır ve Ön Shrunk, Hafif, ferah ve nemi uzak tutmaya yardımcı olan nem emici kumaşla yüksek oranda nefes alır, rahat V yakalı Yumuşak Hafif Kumaş ve daha dar kesim, şık, daha kadınsı bir silüet ve Daha Fazla Konfor sunar",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "rating": { "rate": 4.5, "count": 146 }
+    },
+    {
+        "key": 20,
+        "title": "DANVOUY Bayan T Gömlek Casual Pamuk Kısa",
+        "price": 12.99,
+        "description": "95% Pamuk,5% Tayt, Özellikler: Günlük, Kısa Kollu, Yazılı Baskı, V Yaka, Moda Tişörtler, Kumaş yumuşaktır ve biraz esnektir., Amaçlar: Gündelik/Ofis/Plaj/Okul/Ev/Sokak. Sezon: İlkbahar, Yaz, Sonbahar, Kış.",
+        "category": "Kadın Giyim",
+        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    }]
